@@ -2,7 +2,7 @@ Absolutely! Here's a solid starting README template for your project. It assumes
 
 ---
 
-## 🧠 Chatbot Vector Index
+## Chatbot Vector Index
 
 A Python-based project that builds a vector index using Pinecone and OpenAI embeddings.
 
